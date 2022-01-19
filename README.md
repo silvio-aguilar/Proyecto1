@@ -1,2 +1,2 @@
-# Proyecto1
-Navbar Sticky y Formulario interactivo
+# proyecto1
+ Navbar Sticky y Formulario interactivo
